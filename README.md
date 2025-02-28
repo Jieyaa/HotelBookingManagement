@@ -3,7 +3,7 @@
 **3rd Sem | (Sept’24 – Jan’25)**
 
 ## Project Overview
-Developed a Hotel Booking Management System with dedicated User, Admin, and Hotel dashboards.
+The Hotel Booking Management System is a comprehensive project built using C++ to manage hotel bookings. This system includes three primary dashboards: User, Admin, and Hotel. Each dashboard provides specific functionalities tailored to the needs of different users, ensuring efficient and seamless management of hotel operations.
 
 ## Technologies Used
 - C++
